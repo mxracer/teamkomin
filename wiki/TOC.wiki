@@ -1,0 +1,21 @@
+==== Pages ====
+[Andromeda]
+
+[SVNUsage]
+
+==== Support Options ====
+[http://webchat.freenode.net/?channels=#teamkomin Live Chat] 
+
+[http://forum.xda-developers.com/showthread.php?t=962276 XDA-DEV Q and A]
+
+==== Links ====
+[http://teamkomin.com/ Team Komin Website]
+
+[http://forum.xda-developers.com/showthread.php?t=948424 Andromeda 1.2 Release]
+
+[https://github.com/TeamKomin Galaxy Kernel Development]
+
+==== Downloads ====
+[https://github.com/TeamKomin Official Downloads]
+
+[http://teamkomin.googlecode.com/svn/Distributions/Archives/ Google Download Mirror]
