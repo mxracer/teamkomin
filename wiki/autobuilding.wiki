@@ -7,8 +7,8 @@ Once you have read and set up your [SVNUsage SVN repository locally] you can beg
 #! /bin/sh
 
 #This is the repository Directory, change to match your setup
-Repo="/home/adam/TeamKomin/trunk"
-Output="/home/adam/Desktop"
+Repo="~/TeamKomin/trunk"
+Output="~/Desktop"
 
 
 svn update "$Repo"
