@@ -1,0 +1,12 @@
+#summary Our roadmap, subject to change at any point.
+
+= Introduction =
+
+This is the official Team Komin Roadmap, subject to change at any point in time.  Please don't hold us to anything in this document.
+
+
+= Details =
+
+    *We will be switching the base ROM to AT&T Captivate FroYo release
+    *We will be including a feature that is still super secret in version 3.0.
+    *Version 3.0 has no set release date/
