@@ -1,3 +1,5 @@
+print "Welcome to Andromeda"
+print "      <---insert awesome here"
 format SYSTEM:
 format CACHE:
 format DATA:
@@ -89,3 +91,4 @@ set_perm 0 0 755 TMP:/updates/redbend_ua
 run_program /system/bin/busybox --install -s /system/xbin
 run_program /tmp/updates/redbend_ua restore /tmp/updates/modem.bin /dev/block/bml12
 run_program /tmp/updates/redbend_ua restore /tmp/updates/zImage /dev/block/bml7
+print "Done, please reboot your phone."
