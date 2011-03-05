@@ -28,4 +28,4 @@ rm -rf "$Output/tmp"
 
 
 = Nightly builds =
-Nightly Builds are generated automatically at 2AM. Any changes committed during the day will be reflected in the Nightly Builds.  The Nightly Builds are available here: http://teamkomin.googlecode.com/svn/Distributions/Current/AndromedaNightly.zip
+Nightly Builds are generated automatically at 2AM. Any changes committed during the day will be reflected in the Nightly Builds.  The Nightly Builds are available here: http://code.google.com/p/teamkomin/downloads/detail?name=AndromedaNightly.zip&can=2&q=
