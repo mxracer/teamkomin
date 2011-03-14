@@ -1,0 +1,4 @@
+print "Fixing Swype..."
+copy_dir PACKAGE:system SYSTEM:
+print "Done.  You'll want to reboot"
+print "your phone."
