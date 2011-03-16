@@ -15,3 +15,5 @@ ro.secure=0
 ro.allow.mock.location=0
 ro.debuggable=1
 persist.service.adb.enable=1
+ro.csc.homescreen.defaultscreen=4
+ro.csc.homescreen.screencount=7
