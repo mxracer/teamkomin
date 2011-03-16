@@ -12,7 +12,7 @@ ro.build.type=user
 ro.build.user=samsung
 ro.build.host=lech
 ro.build.tags=release-keys
-ro.product.model=GT-I9000
+ro.product.model=SGH-I897
 
 ro.product.brand=samsung
 
