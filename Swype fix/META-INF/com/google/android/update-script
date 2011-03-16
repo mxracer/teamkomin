@@ -1,6 +1,0 @@
-print "Fixing Swype..."
-delete /system/app/swype.apk
-copy_dir PACKAGE:data DATA:
-copy_dir PACKAGE:system SYSTEM:
-print "Done.  You'll want to reboot"
-print "your phone."
